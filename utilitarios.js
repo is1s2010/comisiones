@@ -22,7 +22,5 @@ function recuperarEntero(idcomponente){
 function mostrarEnSpan(idcomponente,valor){
     let componente = document.getElementById(idcomponente);
     componente.textContent = valor;
-
-
 }
-
+    
